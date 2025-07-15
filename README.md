@@ -37,16 +37,6 @@ Users can enter a city name, click **Search Weather**, and view the current weat
 
 👉 [View Live Demo](https://yourusername.github.io/weather-app)
 
----
-
-## 🛠️ **How to Run**
-
-1️⃣ Clone this repo:
-```bash
-git clone https://github.com/yourusername/weather-app.git
-2️⃣ Open `index.html` in your browser.
-
----
 
 ## 📃 **License**
 
@@ -56,8 +46,8 @@ This project is open source. Use it for learning or extend it for your own use!
 
 ## 🤝 **Connect**
 
-* [GitHub](https://github.com/yourusername)
-* [LinkedIn](https://linkedin.com/in/yourname)
+* [GitHub](https://farhanullah7873.github.io/Weather/)
+* [LinkedIn](https://www.linkedin.com/in/farhan-ullah-05a5b2314/e)
 
 ---
 
